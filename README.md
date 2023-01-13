@@ -4,5 +4,5 @@ weather app using the api from openweathermap.org:
 - Returns the current: temperature, conditions, humidity, 
   wind speed, wind direction, pressure, and query 
  
- ![](demo.png)
+ ![](demo1.png)
  ![](demo2.png)
