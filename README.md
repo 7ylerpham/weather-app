@@ -5,3 +5,4 @@ weather app using the api from openweathermap.org:
   wind speed, wind direction, pressure, and query 
  
  ![](demo.png)
+ ![](demo2.png)
